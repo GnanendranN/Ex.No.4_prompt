@@ -7,7 +7,9 @@ To write the prompt for the following prompt types and compare that with differe
 - Experiential Perspective Prompt  
 - Everyday Functioning Prompts  
 - Universal Prompt Structures Prompt Refinements  
-- Prompt Size Limitations design an AI  
+- Prompt Size Limitations design an AI
+
+-----
 
 # Procedure:
 ## **1. Scenario and Use Case:**
@@ -45,7 +47,8 @@ Present pros, cons, and cost-benefit analysis in a table.
 | edX      | Ivy League content, strong theory base      | Less practical projects          | Best for academic learners        |
 | Udemy    | Affordable, flexible, wide variety          | Quality varies, less recognition | Great for beginners on a budget   |
 
----
+-----
+
 **b. Experiential Perspective Prompt**
 
 **Definition:** Asking the AI to simulate experiences or role-play, expressing emotions and personal viewpoints.
@@ -55,6 +58,8 @@ Present pros, cons, and cost-benefit analysis in a table.
 
 **AI-Generated Answer (Sample):**
 > Walking into the hackathon hall, I felt both nervous and thrilled. The energy was contagious — laptops buzzing, whiteboards filled with ideas. My biggest challenge was coordinating with a team I just met, but by the end, I learned how collaboration and persistence can turn a raw idea into a working prototype. I walked away exhausted, yet inspired to keep building.
+
+-----
 
 **c. Everyday Functioning Prompt**
 
@@ -72,7 +77,9 @@ Help a college student plan their day: 2 hours of study, 1 hour of gym, attendin
 > 12:00–1:00 PM → Lunch + short rest  
 > 1:30–3:30 PM → Test preparation (problem-solving)  
 > 4:00–5:00 PM → Class  
-> 6:00–7:00 PM → Light review and notes  
+> 6:00–7:00 PM → Light review and notes
+
+-----
 
 **d. Universal Prompt Structures (Prompt Refinement)**
 
@@ -92,6 +99,8 @@ Explain the history, applications, and future scope of Artificial Intelligence i
 **AI-Generated Answer (Sample):**
 > AI in education began with early tutoring systems in the 1970s, evolved into adaptive learning platforms, and today powers tools like plagiarism checkers and chatbots. Applications include personalized learning, grading automation, and predictive analytics. In the future, AI may enable fully adaptive curricula tailored to individual students’ learning speeds.
 
+-----
+
 **e. Prompt Size Limitations**
 
 **Definition:** Designing prompts that require the AI to deliver concise yet complete responses.
@@ -103,6 +112,8 @@ Summarize the book ‘The Lean Startup’ in under 80 words, highlighting the co
 
 **AI-Generated Answer (Sample):**
 > The Lean Startup by Eric Ries promotes building businesses through continuous innovation. Instead of long plans, entrepreneurs should create minimum viable products, test them with users, and iterate quickly. By learning from failures early, startups reduce waste and increase chances of success. The core idea is ‘build–measure–learn’ as a cycle for sustainable growth.
+
+----------
 
 ## Evaluation Using Rubric Method
 
