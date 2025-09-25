@@ -62,8 +62,7 @@ Present pros, cons, and cost-benefit analysis in a table.
 
 **Example Prompt:**
 ```
-Help a college student plan their day: 2 hours of study, 1 hour of gym, attending a class at 4 PM, and preparing for a test.
-Suggest an optimal schedule.
+Help a college student plan their day: 2 hours of study, 1 hour of gym, attending a class at 4 PM, and preparing for a test tomorrow. Suggest an optimal schedule.
 ```
 
 **AI-Generated Answer (Sample):**
